@@ -1,0 +1,26 @@
+# LaTeX
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+build/
+
+# Python
+__pycache__/
+*.pyc
+.env
+.venv
+
+# Jupyter
+.ipynb_checkpoints
+
+# OS/IDE
+.DS_Store
+.vscode/
